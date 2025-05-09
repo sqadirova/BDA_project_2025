@@ -1,0 +1,39 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment and virtualenv
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+*.env
+
+# Colab notebook autosaves
+*.ipynb (autosaved).ipynb
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output or logs
+*.log
+*.out
+
+# CSV and large data files (optional – remove if you want to keep your CSV tracked)
+*.csv
+*.xlsx
+*.zip
+
+# VSCode or PyCharm settings
+.vscode/
+.idea/
+
+# Hidden files
+.*~
